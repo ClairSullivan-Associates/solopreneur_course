@@ -8,10 +8,11 @@ Welcome to "Launch Your Solopreneur Business for Senior ICs and Managers in Tech
 
 ## Syllabus
 
-- 1/5: Module 1 - Introduction to Solopreneurship and the Layoff-Proof Career
-- 1/8: Module 2 - Setting Up Your Business
-- 1/13: Module 3 - Finding and Landing Clients
-- 1/15: Module 4 - Launching Your Business
+- 2/9: Module 1 - Introduction to Solopreneurship and the Layoff-Proof Career
+- 2/11: Module 2 - Business Structures and Operations
+- 2/13: Module 3 - Business Finances and Getting Paid
+- 2/17: Module 4 - Finding and Landing Clients
+- 2/19: Module 5 - Launching Your Business
 
 ## Resources
 
