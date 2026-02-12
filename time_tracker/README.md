@@ -8,8 +8,8 @@ To run:
 ```bash
 conda create -n time_tracker python=3.11
 conda activate time_tracker
-pip install streamlit pandas numpy
-streamlit run time_tracker.py
+pip install -r requirements.txt
+python -m streamlit run time_tracker.py
 ```
 
 (There is a pyarrow error, but it can be ignored.)
