@@ -2,7 +2,7 @@
 ### Current Cohort: February 9, 2025 - February 22, 2026
 ### Instructor: Clair J. Sullivan, PhD
 #### clair@clairsullivan.com
-### Last updated: 2026-02-17
+### Last updated: 2026-02-19
 
 Welcome to "Launch Your Solopreneur Business for Senior ICs and Managers in Tech"! This course is designed to help experienced professionals in the tech industry transition into successful solopreneurs. 
 
